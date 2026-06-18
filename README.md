@@ -223,26 +223,3 @@ HIGH RISK
 
 ---
 
-## 🔮 Future Enhancements
-
-- AI-Based Threat Detection
-- Phishing Website Detection
-- Malware URL Analysis
-- Dashboard Analytics
-- PDF Report Generation
-- User Authentication
-- Scan History Dashboard
-
----
-
-## 👨‍💻 Author
-
-Manthan Khujnare
-
-Cyber Security Student | Frontend Developer | Exploring Data Analytics & AI
-
----
-
-## 📜 License
-
-This project is developed for educational and learning purposes.
