@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Threat Analyzer</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">
+            Web Threat Analyzer
+        </div>
+
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">History</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+
+        <h1>Analyze Website Security in Seconds</h1>
+
+        <p>
+            Scan websites for SSL, Security Headers,
+            WHOIS information and Threat Scores.
+        </p>
+
+        <form id="scanForm">
+
+            <input
+                type="text"
+                id="urlInput"
+                placeholder="Enter Website URL"
+                required>
+
+            <button type="submit">
+                Scan Website
+            </button>
+
+        </form>
+
+        <div id="result"></div>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
